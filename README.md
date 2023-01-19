@@ -1,6 +1,6 @@
-https://gitlab.com/joaoandre0409/apltivo-web
+https://github.com/joand123/projet.git
 
-cd apltivo-web
+cd projet
 
 docker-compose up -d
 
